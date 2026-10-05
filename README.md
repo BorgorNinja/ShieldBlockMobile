@@ -63,3 +63,8 @@ gradle assembleRelease
 | `Updater.kt` | Fetches uBlock `assets.json` and the lists, ETag-aware |
 | `UpdateJobService.kt` | 12-hour background refresh |
 | `MainActivity.kt` | UI |
+
+## License
+
+This project is licensed under the terms of the [GNU General Public License v2.0](LICENSE).
+
